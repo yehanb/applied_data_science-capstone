@@ -1,1 +1,1 @@
-# applied_data_science-capstone
+# applied_data_science_capstone
